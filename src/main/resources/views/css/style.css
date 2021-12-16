@@ -1,0 +1,10 @@
+#greetings, #explain{
+    -fx-font-size: 17;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
+#explain{
+    -fx-font-size: 15;
+    -fx-wrap-text: true;
+}
